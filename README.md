@@ -67,8 +67,8 @@ streamlit run app.py
 3. Click the "Predict" button to get the result.
 
 ## Screenshots
-![Home Page](https://github.com/Neelakanta3144/Heart-Stroke-Prediction.git/Outputs/Screenshot1.png)
-![Prediction Page](https://github.com/Neelakanta3144/Heart-Stroke-Prediction.git/Outputs/Screenshot2.png)
+![Home Page](https://github.com/Neelakanta3144/Heart-Stroke-Prediction/blob/main/Outputs/Screenshot1.png)
+![Prediction Page](https://github.com/Neelakanta3144/Heart-Stroke-Prediction/blob/main/Outputs/Screenshot2.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
